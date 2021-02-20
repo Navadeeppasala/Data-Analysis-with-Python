@@ -9,7 +9,7 @@
 6. Identify and Handle Missing Values
 7. Dealing with missing values
 8. Data Formatting
-9. Data NormalizationSets
+9. Data Normalization
 10. Binning
 11. Turning categorical variables into quantitative variables
 12. Exploratory Data Analysis
