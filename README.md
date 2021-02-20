@@ -1,5 +1,5 @@
 # Data-Analysis-with-Python
-### Here, I would like to tell you about how data scientist will approach a problem for model building
+### Here, I would like to tell you about how the data scientist will approach a problem for model building
 #### I took an example of a case study of an auto.csv data set that contains the Used Car Appraisal, by using this case study I explained the following things. 
 1. The problem
 2. How to Understand the Dataset
