@@ -12,10 +12,10 @@
    Answer questions,
    and even predict the future or the unknown.
 
-Used Car Apparaisal
-Problem statement : 
+### Used Car Apparaisal
+### Problem statement : 
 "Can we estimate the price of a used car based on its characteristics?"
-Business understanding:
+### Business understanding:
 Navadeep wants to sell his car. But the problem is, he doesn't know how much he should sell his car for. 
 Navadeep wants to sell his car for as much as he can. But he also wants to set the price reasonably so someone would want to purchase it. 
 So the price he sets should represent the value of the car.
